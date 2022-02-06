@@ -14,5 +14,8 @@
     "esataportcfg" : "0x0ff9"
     },
     "ramdisk_copy": {},
-    "extensions": []
+    "extensions": [
+      "r8168",
+      "r8169"
+    ]
 }
