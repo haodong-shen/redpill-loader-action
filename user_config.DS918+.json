@@ -15,7 +15,5 @@
     },
     "ramdisk_copy": {},
     "extensions": [
-      "r8168",
-      "r8169"
     ]
 }
